@@ -1,3 +1,5 @@
 i got to my workspace at 8:00 am
 i must be learn about git client and git server config
-
+second commit
+add above content to stage
+third commit
