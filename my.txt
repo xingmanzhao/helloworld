@@ -3,4 +3,7 @@ i must be learn about git client and git server config
 second commit
 add above content to stage
 third commit
+<<<<<<< HEAD
 VV
+=======
+>>>>>>> 9356b9e1aa659b5689068e86f5690d3b10289b07
